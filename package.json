@@ -1,0 +1,19 @@
+{
+	"author": {
+		"name": "John Cyrill Corsanes",
+		"email": "jccorsanes@protonmail.com",
+		"url": "https://jcchikikomori.github.io/portfolio"
+	},
+	"version": "0.0.1",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"standard": "^16.0.3",
+		"viber-bot": "^1.0.16",
+		"winston": "^3.3.3",
+		"winston-console-formatter": "^1.0.0-beta.3"
+	},
+	"scripts": {
+		"test": "standard",
+    "index": "standard && node index.js"
+  }
+}
